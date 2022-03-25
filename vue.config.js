@@ -4,6 +4,6 @@
  * @type {import('@vue/cli-service').ProjectOptions}
  */
  module.exports = {
-    publicPath: '/github-actions-vue-deployment/'
+    publicPath: '/github-action-vue-deployment/'
   }
   
