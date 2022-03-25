@@ -1,9 +1,6 @@
 name: "Build and Deploy"
-# Only deploy from `master`
-on:
-  push:
-    branches:
-      - master
+
+on: push
 
 jobs:
   build-and-deploy:
